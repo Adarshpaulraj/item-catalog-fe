@@ -1,0 +1,134 @@
+ [{
+   "name": "T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/g/h/z/m-bwmrn-z31-blive-original-imaggcfgh73rnqfg.jpeg?q=70",
+  "brand": "crocod",
+  "discountPrice": 699,
+  "size": "S,M,L,XL,XXL",
+  "offer": 40,
+  "category": "men",
+  "price": 1299,
+  "description": "Men Printed Round Neck Cotton Blend Grey T-Shirt",
+  "countInStock": "20"
+ },{
+  "_id": {
+    "$oid": "65a027e0be8052bae40d0771"
+  },
+  "name": "T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/p/j/c/s-ts12-vebnor-original-imagp6jcsgekgda4.jpeg?q=70&crop=false",
+  "brand": "nuxos",
+  "discountPrice": 199,
+  "size": "S,M,L,XL,XL,XXL",
+  "offer": 60,
+  "category": "Men",
+  "price": 799,
+  "description": "Men Checkered Round Neck Polyester Grey T-Shirt",
+  "countInStock": "4",
+  "createdBy": "658686ae28f642270ca87694",
+  "modifiedBy": "",
+  "createdAt": {
+    "$date": "2024-01-11T17:28:36.139Z"
+  }
+},{
+  "_id": {
+    "$oid": "65a02997b850c52887cc94f0"
+  },
+  "name": "T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/h/4/a/l-ts12-vebnor-original-imagwk48shcxykra.jpeg?q=70&crop=false",
+  "brand": "Jack",
+  "discountPrice": 299,
+  "size": "S,M,L,XL",
+  "offer": 50,
+  "category": "Men",
+  "price": 899,
+  "description": "Men Checkered Round Neck Polyester Pink T-Shirt",
+  "countInStock": "3",
+  "createdBy": "658686ae28f642270ca87694",
+  "modifiedBy": "",
+  "createdAt": {
+    "$date": "2024-01-11T17:45:51.537Z"
+  }
+},{
+  "_id": {
+    "$oid": "65a0d9414d66310bd0280641"
+  },
+  "name": "T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/k/c/v/s-mn22-rn-3-4th-tie-dye-wht-blu-ancr-maniac-original-imagghrxfy56afdt.jpeg?q=70&crop=false",
+  "brand": "MANIAC ",
+  "discountPrice": 399,
+  "size": "S,L,M,XL,XXL",
+  "offer": 70,
+  "category": "Men",
+  "price": 1399,
+  "description": "Men Printed, Tie & Dye Round Neck Pure Cotton White, Blue T-Shirt",
+  "countInStock": "50",
+  "createdBy": "658686ae28f642270ca87694",
+  "modifiedBy": "",
+  "createdAt": {
+    "$date": "2024-01-12T05:26:20.844Z"
+  }
+},{
+  "_id": {
+    "$oid": "65a0dcad4d66310bd028064b"
+  },
+  "name": " T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/z/0/k/l-all-rbcpon-sky-one-nb-nicky-boy-original-imagrdhcgyk7papf.jpeg?q=70&crop=false",
+  "brand": "NB NICKY BOY ",
+  "discountPrice": 299,
+  "size": "S,M,XL,XXL",
+  "offer": 73,
+  "category": "Men",
+  "price": 799,
+  "description": "Men Printed Round Neck Cotton Blend Light Blue T-Shirt\n",
+  "countInStock": "5",
+  "createdBy": "658686ae28f642270ca87694",
+  "modifiedBy": "",
+  "createdAt": {
+    "$date": "2024-01-12T05:26:20.844Z"
+  }
+},{
+  "_id": {
+    "$oid": "65a0ddeb4d66310bd028064f"
+  },
+  "name": "T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/3/d/i/l-jc22-hd-fs-black-jmc-pckt-jump-cuts-original-imagg3yxfk48y7nt.jpeg?q=70&crop=false",
+  "brand": "Jump Cuts ",
+  "discountPrice": 499,
+  "size": "S,M,L,XL,XXL",
+  "offer": 75,
+  "category": "Men",
+  "price": 1599,
+  "description": "Men Printed Hooded Neck Cotton Blend White, Black T-Shirt",
+  "countInStock": "8",
+  "createdBy": "658686ae28f642270ca87694",
+  "modifiedBy": "",
+  "createdAt": {
+    "$date": "2024-01-12T05:26:20.844Z"
+  }
+},{
+  "_id": {
+    "$oid": "65a0e2f74d66310bd0280678"
+  },
+  "name": "T-Shirt",
+  "imageUrl": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/o/0/g/s-jc23-polo-fs-auto-strp-blk-beige-jump-cuts-original-imagnh2vkg6xjzpa.jpeg?q=70&crop=false",
+  "brand": "Jump Cuts ",
+  "discountPrice": 259,
+  "size": "S,M,L,XL,XXL",
+  "offer": 65,
+  "category": "Men",
+  "price": 699,
+  "description": "Men Striped Polo Neck Cotton Blend Multicolor T-Shirt",
+  "countInStock": "5",
+  "createdBy": "658686ae28f642270ca87694",
+  "modifiedBy": "",
+  "createdAt": {
+    "$date": "2024-01-12T05:26:20.844Z"
+  }
+}]
+
+
+
+
+
+
+
+
