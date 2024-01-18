@@ -20,3 +20,12 @@ for admin;
 4.dashboard for admin can able to see the all product and user list
 5.admin can edit and delete the product
 
+
+Admin id:
+username:adarshcrush5@gmail.com
+password:123
+
+users id:
+username: adarshadarsh@gmail.com
+password: 12345
+
